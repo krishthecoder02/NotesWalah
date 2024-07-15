@@ -4,7 +4,9 @@ import AppNavigation from './src/navigation/AppNavigation'
 
 
 const App = () => {
-  return <AppNavigation/>;
+  return (
+<AppNavigation/>;
+)
     
   
 }
